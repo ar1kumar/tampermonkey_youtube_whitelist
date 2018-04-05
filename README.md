@@ -1,7 +1,7 @@
 # tampermonkey_youtube_whitelist
 Whitelist Youtube channels in uBlock Origin (with tampermonkey)
 
-1. Add this script via TamperMonkey
+1. Add this script via TamperMonkey(main.js)
 2. Edit the value of variable "fv_channel_name" and add the channelID of the channel you would like to whitelist
 3. Save script and enable it.
 4. open uBlock Origin settings and goto "whitelist" tab
